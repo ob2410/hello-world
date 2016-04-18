@@ -1,2 +1,3 @@
 # hello-world
-Doing the tutorial
+
+Writing staff just becouse I have to tray this thing
